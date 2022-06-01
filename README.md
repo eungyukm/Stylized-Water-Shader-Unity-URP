@@ -1,3 +1,5 @@
+![alt text](https://github.com/tojynick/Stylized-Water-Shader/blob/main/Readme%20Resources/Thumbnail.png)
+
 ## Features
 * **Shallow and deep colors**
 * **Foam**, both *simple* and *advanced*
