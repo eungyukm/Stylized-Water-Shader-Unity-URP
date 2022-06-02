@@ -9,10 +9,10 @@
 * **Mobile optimized!**
 
 ### Toggleable Features
-* **Distortions** - simulates refraction my reading from opaque texture using distorted UV, **expensive**. *Requires Opaque Texture to be enabled.*
+* **Distortions** - simulates refraction by reading from opaque texture using distorted UV, **expensive**. *Requires Opaque Texture to be enabled.*
 * **Caustics**
 * **Waves**
-* **Foam Type** - simple or advanced. Simple is cheap, advanced is expensive, but gives you much more control
+* **Foam Type** - simple or advanced. Simple is cheap, advanced is expensive, but gives you much more control.
 
 ## Important Notes
 ### Compatability
