@@ -16,7 +16,7 @@
 
 ## Important Notes
 ### Compatability
-The shader is tested only in Unity 2021, so I can guarantee it will work in 2020 or earlier.
+The shader is tested only in Unity 2021, so I cannot guarantee it will work in 2020 or earlier.
 ### URP Settings
 Please make sure that **Depth Texture** and **Opaque Texture** are enabled in your URP settings. Without it the shader will work incorrectly.
 
