@@ -23,6 +23,8 @@ Please make sure that **Depth Texture** and **Opaque Texture** are enabled in yo
 ## Examples
 [YouTube Video](https://www.youtube.com/watch?v=S5xWj7hhmws)
 
+![alt text](https://github.com/tojynick/Stylized-Water-Shader-Unity-URP/blob/main/Readme%20Resources/Stylized%20Water%20Example.gif)
+
 ### Screenshots
 
 #### Blue Water
