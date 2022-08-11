@@ -20,18 +20,5 @@ The shader is tested only in **Unity 2021** and only with **URP**, so I cannot g
 ### URP Settings
 Please make sure that **Depth Texture** and **Opaque Texture** are enabled in your URP settings. Without it the shader will work incorrectly.
 
-## Examples
+## Example
 ![alt text](https://github.com/tojynick/Stylized-Water-Shader-Unity-URP/blob/main/Readme%20Resources/Beach%20Example.gif)
-![alt text](https://github.com/tojynick/Stylized-Water-Shader-Unity-URP/blob/main/Readme%20Resources/Stylized%20Water%20Example.gif)
-
-### Screenshots
-
-#### Blue Water
-![alt text](https://github.com/tojynick/Stylized-Water-Shader/blob/main/Readme%20Resources/Blue%20Water.jpg)
-
-#### Pink Water
-![alt text](https://github.com/tojynick/Stylized-Water-Shader/blob/main/Readme%20Resources/Pink%20Water.jpg)
-
-#### Purple Water
-![alt text](https://github.com/tojynick/Stylized-Water-Shader/blob/main/Readme%20Resources/Purple%20Water.jpg)
-
