@@ -19,12 +19,8 @@
 The shader is tested only in **Unity 2021** and only with **URP**, so I cannot guarantee it will work properly in earlier versions of Unity or different render pipelines.
 ### URP Settings
 Please make sure that **Depth Texture** and **Opaque Texture** are enabled in your URP settings. Without it the shader will work incorrectly.
-### Orthographic projection
-The shader's depth effects like **foam**, **water shallow, and deep colors** don't work with an *orthographic camera projection* for some reason.
 
 ## Examples
-[YouTube Video](https://www.youtube.com/watch?v=S5xWj7hhmws)
-
 ![alt text](https://github.com/tojynick/Stylized-Water-Shader-Unity-URP/blob/main/Readme%20Resources/Stylized%20Water%20Example.gif)
 
 ### Screenshots
