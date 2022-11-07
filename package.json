@@ -4,16 +4,22 @@
     "displayName": "Stylized Water Shader For URP",
     "description": "Stylized water shader for Unity 2021 and higher. Optimized for mobile.",
     "unity": "2021.3",
-
     "dependencies":
     {
         "com.unity.render-pipelines.universal": "12.0.0"
     },
-
     "author" :
     {
         "name": "tojynick",
         "email": "tojynick@protonmail.com",
         "url": "https://tojynick.me"
-    }
+    },
+    "samples":
+    [
+        {
+            "displayName": "Default Example",
+            "description": "A simple scene showcasing capabilities of the shader.",
+            "path": "Samples~/DefaultExample"
+        }
+    ]
 }
