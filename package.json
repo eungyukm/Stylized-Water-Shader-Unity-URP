@@ -18,9 +18,9 @@
     "samples":
     [
         {
-            "displayName": "Default Example",
+            "displayName": "Prototype Pool",
             "description": "A simple scene showcasing capabilities of the shader.",
-            "path": "Samples~/DefaultExample"
+            "path": "Samples~/Prototype Pool Sample"
         }
     ]
 }
