@@ -11,7 +11,7 @@ You can install the package in Unity's Package Manager.
 4. Pres **"Add package from git URL...**
 5. Enter https://github.com/tojynick/Stylized-Water-Shader-Unity-URP.git
 6. Press **"Add"**
-7. Add **"Default Example"** under **"Samples"** if you like
+7. Add **"Prototype Pool"** under **"Samples"**
 7. Enjoy 💖
 
 ## Features ✨
