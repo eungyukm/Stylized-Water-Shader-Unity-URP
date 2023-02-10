@@ -1,8 +1,5 @@
 ![alt text](https://github.com/tojynick/Stylized-Water-Shader/blob/main/Readme%20Resources/Thumbnail.png)
 
-## ⚠️ Attention ⚠️
-This package is still **work in progress**. I will add more features, write proper documentation and make the usage easier and more intuitive. For now, **use at your own risk!**
-
 ## Getting Started 🚀
 You can install the package in Unity's Package Manager.
 1. Go to **"Windows"**
