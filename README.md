@@ -11,6 +11,9 @@ You can install the package in Unity's Package Manager.
 7. Add **"Prototype Pool"** under **"Samples"**
 7. Enjoy 💖
 
+## Example 👀
+![alt text](https://github.com/tojynick/Stylized-Water-Shader/blob/main/Readme%20Resources~/Water%20Example.gif)
+
 ## Features ✨
 * **Shallow and deep colors**
 * **Foam**, both *simple* and *advanced*
@@ -30,6 +33,3 @@ You can install the package in Unity's Package Manager.
 The shader is tested only in **Unity 2021** and only with **URP**, so I cannot guarantee it will work properly in earlier versions of Unity or different render pipelines.
 ### URP Settings
 Please make sure that **Depth Texture** and **Opaque Texture** are enabled in your URP settings. Without it the shader will work incorrectly.
-
-## Example 👀
-![alt text](https://github.com/tojynick/Stylized-Water-Shader/blob/main/Readme%20Resources~/Water%20Example.gif)
